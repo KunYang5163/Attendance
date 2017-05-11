@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/alcohol_test.png</file>
+        <file>images/alcohol_test1.png</file>
+        <file>images/alcohol_test2.png</file>
+        <file>images/camera.png</file>
+        <file>images/finger_print.png</file>
+        <file>images/fp_test.png</file>
+        <file>images/health_test.png</file>
+        <file>images/health_test1.png</file>
+        <file>images/health_test2.png</file>
+        <file>images/main_bg.png</file>
+        <file>images/user_reg.png</file>
+        <file>images/user_reg1.png</file>
+        <file>images/user_reg2.png</file>
+        <file>images/user_setting.png</file>
+        <file>images/user_setting1.png</file>
+        <file>images/user_setting2.png</file>
+        <file>images/alcohol_testing.png</file>
+        <file>images/alcohol_hear.png</file>
+        <file>images/health_info.png</file>
+        <file>images/input_err.png</file>
+        <file>images/input_ok.png</file>
+        <file>images/setting_buttons.png</file>
+        <file>images/setting_button.png</file>
+        <file>images/login_way_select.png</file>
+        <file>images/radio_checked.png</file>
+        <file>images/radio_unchecked.png</file>
+        <file>images/eth_bg.png</file>
+        <file>images/checkbox_checked.png</file>
+        <file>images/checkbox_unchecked.png</file>
+        <file>images/wifi_locked.png</file>
+        <file>images/wifi_middle.png</file>
+        <file>images/wifi_select.png</file>
+        <file>images/wifi_strong.png</file>
+        <file>images/wifi_weak.png</file>
+        <file>images/volume_add.png</file>
+        <file>images/volume_sub.png</file>
+        <file>images/volume_slider.png</file>
+    </qresource>
+</RCC>
